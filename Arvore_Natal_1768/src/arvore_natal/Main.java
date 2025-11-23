@@ -1,6 +1,5 @@
 package arvore_natal;
 import java.util.Scanner;
-import arvore_natal.ArvoreNatal;
 
 public class Main {
 
@@ -15,3 +14,4 @@ public class Main {
         sc.close();
     }
 }
+
